@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Aorus',
-    description: 'The unofficial store for Kasm supported workspaces by Aorus.',
+    name: 'Kasm Technologies',
+    description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://theroadrunn3r.github.io/kasm-registry/',
-    contactUrl: 'https://theroadrunn3r.github.io',
+    listUrl: 'https://registry.kasmweb.com/',
+    contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
   swcMinify: true,
